@@ -26,4 +26,3 @@ char *fill_short_oct_array(char *bnr, char *oct)
 	}
 	return (oct);
 }
-
